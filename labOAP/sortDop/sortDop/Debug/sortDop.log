@@ -1,0 +1,30 @@
+﻿Сборка начата 25.05.2020 15:48:35.
+Уровень детализации журнала: Normal.     1>Проект "D:\мои документы\лабы\ОАП\2 семестр\14 лаба\sortDop\sortDop\sortDop.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\sortDop.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TP /analyze- /FC /errorReport:prompt sortDop.cpp
+         sortDop.cpp
+     1>D:\мои документы\лабы\ОАП\2 семестр\14 лаба\sortDop\sortDop\sortDop.cpp(54,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+     1>D:\мои документы\лабы\ОАП\2 семестр\14 лаба\sortDop\sortDop\sortDop.cpp(88,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+     1>D:\мои документы\лабы\ОАП\2 семестр\14 лаба\sortDop\sortDop\sortDop.cpp(114,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.25.28610\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\мои документы\лабы\ОАП\2 семестр\14 лаба\sortDop\Debug\sortDop.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FASTLINK /PDB:"D:\мои документы\лабы\ОАП\2 семестр\14 лаба\sortDop\Debug\sortDop.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\мои документы\лабы\ОАП\2 семестр\14 лаба\sortDop\Debug\sortDop.lib" /MACHINE:X86 Debug\sortDop.obj
+         sortDop.vcxproj -> D:\мои документы\лабы\ОАП\2 семестр\14 лаба\sortDop\Debug\sortDop.exe
+       FinalizeBuildStatus:
+         Файл "Debug\sortDop.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\sortDop.tlog\sortDop.lastbuildstate".
+     1>Сборка проекта "D:\мои документы\лабы\ОАП\2 семестр\14 лаба\sortDop\sortDop\sortDop.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "D:\мои документы\лабы\ОАП\2 семестр\14 лаба\sortDop\sortDop\sortDop.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\мои документы\лабы\ОАП\2 семестр\14 лаба\sortDop\sortDop\sortDop.cpp(54,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+         D:\мои документы\лабы\ОАП\2 семестр\14 лаба\sortDop\sortDop\sortDop.cpp(88,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+         D:\мои документы\лабы\ОАП\2 семестр\14 лаба\sortDop\sortDop\sortDop.cpp(114,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+
+    Предупреждений: 3
+    Ошибок: 0
+
+Прошло времени 00:00:01.41
