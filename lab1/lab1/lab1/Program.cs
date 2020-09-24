@@ -100,6 +100,8 @@ namespace lab1
 
             string miniText = "Hello, World!";
             string[] words = miniText.Split(new char[] { ' ', ',' });
+            
+
 
             myAbsolyteName = myAbsolyteName.Insert(0, "Serg");
             myAbsolyteName = myAbsolyteName.Replace(lastName, "");
