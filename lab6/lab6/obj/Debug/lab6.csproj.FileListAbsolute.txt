@@ -1,0 +1,7 @@
+D:\GIT\OOTP\lab6\lab6\bin\Debug\lab6.exe.config
+D:\GIT\OOTP\lab6\lab6\bin\Debug\lab6.exe
+D:\GIT\OOTP\lab6\lab6\bin\Debug\lab6.pdb
+D:\GIT\OOTP\lab6\lab6\obj\Debug\lab6.csprojAssemblyReference.cache
+D:\GIT\OOTP\lab6\lab6\obj\Debug\lab6.csproj.CoreCompileInputs.cache
+D:\GIT\OOTP\lab6\lab6\obj\Debug\lab6.exe
+D:\GIT\OOTP\lab6\lab6\obj\Debug\lab6.pdb

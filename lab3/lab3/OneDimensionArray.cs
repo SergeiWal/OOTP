@@ -13,7 +13,9 @@ namespace lab3
         private Owner owner;
         private Date date;
 
-        public OneDimensionArray()
+        
+
+        public  OneDimensionArray()
         {
             owner = new Owner();
             date = new Date();

@@ -9,10 +9,7 @@ namespace lab3
     static class StatisticOperation
     {
         public static int max(OneDimensionArray arr)
-        {
-            
-            
-
+        { 
             int max = arr[0];
             for (int i = 0;i<arr.Length;++i)
             {
@@ -23,9 +20,7 @@ namespace lab3
         }
 
         public static int min(OneDimensionArray arr)
-        {
-
-           
+        {  
             int min = arr[0];
             for (int i = 0; i < arr.Length; ++i)
             {
