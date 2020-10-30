@@ -4,14 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace lab6
+namespace lab7
 {
     class ComputerManager
     {
 
-        static public Computer<Game> SearchGame(Computer<T>  pc, string ganre)
+        static public Computer SearchGame(Computer  pc, string ganre)
         {
-            Computer<Game> list = new Computer<Game>();
+            Computer list = new Computer();
+            if (pc.Length == 0) throw new Exception("Not found soft in this computer!");
             for(int i = 0; i < pc.Length;++i)
             {
                 if(pc.Get()[i] is Game)
@@ -24,9 +25,9 @@ namespace lab6
         }
             
 
-        static public Computer<Word> SearchTextProcessor(Computer<Soft> pc)
+        static public Computer SearchTextProcessor(Computer pc)
         {
-            Computer<Word> list = new Computer<Word>();
+            Computer list = new Computer();
             for (int i = 0; i < pc.Length; ++i)
             {
                 if (pc.Get()[i] is TextProcessor)
@@ -37,13 +38,15 @@ namespace lab6
             return list;
         }
 
-        static public void AbcOut(Computer<Soft> pc)
+        static public void AbcOut(Computer pc)
         {
             char[] eng = { 'A',  'B', 'C' , 'D' , 'E', 'F' , 'G', 'H', 'I', 'K' ,  'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'V', 'X',
                 'Y', 'Z', 'W', 'А', 'Б', 'В', 'Г', 'Д', 'Е', 'Ё', 'Ж', 'З', 'И','Й','К','Л','М','Н','О','П','Р','С','Т','У','Ф','Х','Ц','Ч','Ш','Щ','Ъ','Ы','Ь','Э','Ю',
                 'Я'};
 
-            for(int i =0;i<eng.Length;++i)
+           
+
+            for (int i =0;i<eng.Length;++i)
             {
                 for(int j=0;j<pc.Length;++j)
                 {

@@ -1,0 +1,23 @@
+lab8.CollectionType`1[lab8.Sapper]
+2
+Values:
+Soft name: Sapper
+Memory:235
+RAM: 500
+Sergei Walko SENIOR WSA-2020 Devoloper 100age expriens
+Type: Game
+ Offline:True
+ Online:False
+Genre:arcada
+Sapper is game for crazy man!!!!
+
+Soft name: Sapper
+Memory:235
+RAM: 500
+Sergei Walko SENIOR WSA-2020 Devoloper 100age expriens
+Type: Game
+ Offline:True
+ Online:False
+Genre:arcada
+Sapper is game for crazy man!!!!
+

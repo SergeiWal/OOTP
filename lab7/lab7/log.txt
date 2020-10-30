@@ -1,0 +1,1 @@
+30.10.2020 9:55:42INFO:Test log message

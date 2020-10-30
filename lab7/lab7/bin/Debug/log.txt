@@ -1,0 +1,3 @@
+26.10.2020 23:21:46INFO:Test log message
+Good work - null exception!
+------THE END-----

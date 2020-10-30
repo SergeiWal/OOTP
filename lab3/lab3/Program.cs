@@ -27,6 +27,7 @@ namespace lab3
             if (str.isSymbol()) Console.WriteLine("str have symbol a");
 
             arr2.delNegative();
+            for (int i = 0; i < arr2.Length; ++i) Console.WriteLine(arr2[i]);
 
             Console.Read();
         }
