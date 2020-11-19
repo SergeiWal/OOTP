@@ -1,0 +1,7 @@
+D:\GIT\OOTP\Lab11\Lab11\bin\Debug\Lab11.exe.config
+D:\GIT\OOTP\Lab11\Lab11\bin\Debug\Lab11.exe
+D:\GIT\OOTP\Lab11\Lab11\bin\Debug\Lab11.pdb
+D:\GIT\OOTP\Lab11\Lab11\obj\Debug\Lab11.csprojAssemblyReference.cache
+D:\GIT\OOTP\Lab11\Lab11\obj\Debug\Lab11.csproj.CoreCompileInputs.cache
+D:\GIT\OOTP\Lab11\Lab11\obj\Debug\Lab11.exe
+D:\GIT\OOTP\Lab11\Lab11\obj\Debug\Lab11.pdb
