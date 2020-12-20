@@ -1,0 +1,28 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:Sapper id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Lab14/LAb14%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<HardestLevel>0</HardestLevel>
+<status>false</status>
+<Game_x002B_offlineGame>true</Game_x002B_offlineGame>
+<Game_x002B_onlineGame>false</Game_x002B_onlineGame>
+<Game_x002B_genre id="ref-3">arcada</Game_x002B_genre>
+<Game_x002B_directVersion id="ref-4">9.0</Game_x002B_directVersion>
+<Game_x002B_status>false</Game_x002B_status>
+<Soft_x002B_name id="ref-5">Sapper</Soft_x002B_name>
+<Soft_x002B_memory>235</Soft_x002B_memory>
+<Soft_x002B_ram>500</Soft_x002B_ram>
+<Soft_x002B_videoMemory>211</Soft_x002B_videoMemory>
+<Soft_x002B_type>GAME</Soft_x002B_type>
+<Soft_x002B_dev href="#ref-6"/>
+<Soft_x002B_status>false</Soft_x002B_status>
+</a1:Sapper>
+<a1:Developer id="ref-6" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/Lab14/LAb14%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<name id="ref-7">Sergei Walko</name>
+<experience>100</experience>
+<language id="ref-8">WSA-2020</language>
+<rang>SENIOR</rang>
+</a1:Developer>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+y>
+</SOAP-ENV:Envelope>

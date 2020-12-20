@@ -1,0 +1,7 @@
+D:\GIT\OOTP\Lab15\Lab15\bin\Debug\Lab15.exe.config
+D:\GIT\OOTP\Lab15\Lab15\bin\Debug\Lab15.exe
+D:\GIT\OOTP\Lab15\Lab15\bin\Debug\Lab15.pdb
+D:\GIT\OOTP\Lab15\Lab15\obj\Debug\Lab15.csprojAssemblyReference.cache
+D:\GIT\OOTP\Lab15\Lab15\obj\Debug\Lab15.csproj.CoreCompileInputs.cache
+D:\GIT\OOTP\Lab15\Lab15\obj\Debug\Lab15.exe
+D:\GIT\OOTP\Lab15\Lab15\obj\Debug\Lab15.pdb

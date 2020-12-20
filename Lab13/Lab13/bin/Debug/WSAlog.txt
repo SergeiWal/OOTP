@@ -50,3 +50,9 @@ Name: WSACopy.txt Time:04.12.2020 1:21:15
 Скопирован файл
 Name: WSACopy.txt Time:04.12.2020 1:21:15
 Скопирован файл
+Name: WSAInspect Time:03.12.2020 22:08:58
+Ctreate directory
+Name: D:\GIT\OOTP\Lab13\Lab13\bin\Debug\WSAInspect\WSAdirinfo.txt Time:18.12.2020 11:12:36
+Create file
+Name: D:\GIT\OOTP\Lab13\Lab13\bin\Debug\WSAInspect\WSAdirinfo.txt Time:18.12.2020 11:12:36
+Write to file

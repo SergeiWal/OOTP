@@ -1,0 +1,56 @@
+Name: WSAInspect Time:18.12.2020 11:20:35
+Ctreate directory
+Name: D:\GIT\OOTP\Lab15\Lab15\bin\Debug\WSAInspect\WSAdirinfo.txt Time:18.12.2020 11:20:35
+Create file
+Name: D:\GIT\OOTP\Lab15\Lab15\bin\Debug\WSAInspect\WSAdirinfo.txt Time:18.12.2020 11:20:35
+Write to file
+Name: WSAInspect\WSACopy.txt Time:18.12.2020 11:20:35
+Copy file from D:\GIT\OOTP\Lab15\Lab15\bin\Debug\WSAInspect\WSAdirinfo.txt
+Name: WSAFiles Time:18.12.2020 11:20:35
+Ctreate directory
+Name: WSACopy.txt Time:18.12.2020 11:20:35
+Скопирован файл
+Name: WSACopy.txt Time:18.12.2020 11:20:35
+Скопирован файл
+Name: WSAInspect Time:18.12.2020 11:20:35
+Ctreate directory
+Name: D:\GIT\OOTP\Lab15\Lab15\bin\Debug\WSAInspect\WSAdirinfo.txt Time:18.12.2020 11:22:00
+Create file
+Name: D:\GIT\OOTP\Lab15\Lab15\bin\Debug\WSAInspect\WSAdirinfo.txt Time:18.12.2020 11:22:00
+Write to file
+Name: WSAInspect Time:18.12.2020 11:20:35
+Ctreate directory
+Name: D:\GIT\OOTP\Lab15\Lab15\bin\Debug\WSAInspect\WSAdirinfo.txt Time:18.12.2020 11:22:00
+Create file
+Name: D:\GIT\OOTP\Lab15\Lab15\bin\Debug\WSAInspect\WSAdirinfo.txt Time:18.12.2020 11:22:00
+Write to file
+Name: WSAInspect Time:18.12.2020 11:20:35
+Ctreate directory
+Name: D:\GIT\OOTP\Lab15\Lab15\bin\Debug\WSAInspect\WSAdirinfo.txt Time:18.12.2020 11:22:00
+Create file
+Name: D:\GIT\OOTP\Lab15\Lab15\bin\Debug\WSAInspect\WSAdirinfo.txt Time:18.12.2020 11:22:00
+Write to file
+Name: WSAInspect Time:18.12.2020 11:20:35
+Ctreate directory
+Name: D:\GIT\OOTP\Lab15\Lab15\bin\Debug\WSAInspect\WSAdirinfo.txt Time:18.12.2020 11:22:00
+Create file
+Name: D:\GIT\OOTP\Lab15\Lab15\bin\Debug\WSAInspect\WSAdirinfo.txt Time:18.12.2020 11:22:00
+Write to file
+Name: WSAInspect Time:18.12.2020 11:20:35
+Ctreate directory
+Name: D:\GIT\OOTP\Lab15\Lab15\bin\Debug\WSAInspect\WSAdirinfo.txt Time:18.12.2020 11:22:00
+Create file
+Name: D:\GIT\OOTP\Lab15\Lab15\bin\Debug\WSAInspect\WSAdirinfo.txt Time:18.12.2020 11:22:00
+Write to file
+Name: WSAInspect Time:18.12.2020 11:20:35
+Ctreate directory
+Name: D:\GIT\OOTP\Lab15\Lab15\bin\Debug\WSAInspect\WSAdirinfo.txt Time:18.12.2020 11:22:00
+Create file
+Name: D:\GIT\OOTP\Lab15\Lab15\bin\Debug\WSAInspect\WSAdirinfo.txt Time:18.12.2020 11:22:00
+Write to file
+Name: WSAInspect Time:18.12.2020 11:20:35
+Ctreate directory
+Name: D:\GIT\OOTP\Lab15\Lab15\bin\Debug\WSAInspect\WSAdirinfo.txt Time:18.12.2020 11:22:00
+Create file
+Name: D:\GIT\OOTP\Lab15\Lab15\bin\Debug\WSAInspect\WSAdirinfo.txt Time:18.12.2020 11:22:00
+Write to file

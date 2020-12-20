@@ -1,0 +1,9 @@
+D:\GIT\OOTP\LAb14\LAb14\bin\Debug\LAb14.exe.config
+D:\GIT\OOTP\LAb14\LAb14\bin\Debug\LAb14.exe
+D:\GIT\OOTP\LAb14\LAb14\bin\Debug\LAb14.pdb
+D:\GIT\OOTP\LAb14\LAb14\obj\Debug\LAb14.csprojAssemblyReference.cache
+D:\GIT\OOTP\LAb14\LAb14\obj\Debug\LAb14.csproj.CoreCompileInputs.cache
+D:\GIT\OOTP\LAb14\LAb14\obj\Debug\LAb14.exe
+D:\GIT\OOTP\LAb14\LAb14\obj\Debug\LAb14.pdb
+D:\GIT\OOTP\LAb14\LAb14\bin\Debug\Newtonsoft.Json.dll
+D:\GIT\OOTP\LAb14\LAb14\obj\Debug\LAb14.csproj.CopyComplete
