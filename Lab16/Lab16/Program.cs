@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Diagnostics;
 using System.Threading;
+using System.Collections.Concurrent;
 
 namespace Lab16
 {
@@ -117,10 +118,46 @@ namespace Lab16
                 ()=>ArrayGeneration(1000),
                 ()=>ArrayGeneration(100000));
             //task 7
-
-            Console.Read();
+            try
+            {
+                bool flag = false;
+                BlockingCollection<string> assortment = new BlockingCollection<string>();
+                Task prod = new Task(()=> { Producer.producerWork(ref assortment, ref flag, "product"); });
+                Task shop = new Task(() => { Shopper.shopperWork(ref assortment, ref flag); });
+                prod.Start();
+                shop.Start();
+                Thread.Sleep(3000);
+                //task8
+                Task.WaitAll(prod, shop);
+                Console.WriteLine(" ----------------------- Task6 -----------------------------");
+                FactorialAsync(4);
+                Console.Read();
+            }
+            catch(Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
+           
         }
 
+        //факториал 
+        static void Factorial(int x)
+        {
+            int result = 1;
+            for (int i = 1; i <= x; i++)
+            {
+                result *= i;
+            }
+            Thread.Sleep(8000);
+            Console.WriteLine($"Факториал от {x} равен: {result}");
+        }
+        // определение асинхронного метода
+        static async void FactorialAsync(int x)
+        {
+            Console.WriteLine("Начало метода FactorialAsync"); // выполняется синхронно
+            await Task.Run(() => Factorial(x));                // выполняется асинхронно
+            Console.WriteLine("Конец метода FactorialAsync");
+        }
 
         public static void ArrayGeneration(int size)
         {
@@ -171,6 +208,7 @@ namespace Lab16
             Int32 sum = 0;
             for (; n > 0; n--)  
                 checked { sum += n; }
+            Thread.Sleep(2000);
             return sum; 
         } 
 
