@@ -84,8 +84,7 @@ namespace Lab12
             Random rand = new Random();
             param[0] = rand.Next();
             Reflector.Invoke(l, "Add", param);
-
-
+           
             Console.ReadLine();
         }
     }

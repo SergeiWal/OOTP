@@ -1,0 +1,7 @@
+D:\мои документы\лабы\OOTП\практика\Task3_2\Task3_2\obj\Debug\Task3_2.csprojAssemblyReference.cache
+D:\мои документы\лабы\OOTП\практика\Task3_2\Task3_2\obj\Debug\Task3_2.csproj.CoreCompileInputs.cache
+D:\мои документы\лабы\OOTП\практика\Task3_2\Task3_2\bin\Debug\Task3_2.exe.config
+D:\мои документы\лабы\OOTП\практика\Task3_2\Task3_2\bin\Debug\Task3_2.exe
+D:\мои документы\лабы\OOTП\практика\Task3_2\Task3_2\bin\Debug\Task3_2.pdb
+D:\мои документы\лабы\OOTП\практика\Task3_2\Task3_2\obj\Debug\Task3_2.exe
+D:\мои документы\лабы\OOTП\практика\Task3_2\Task3_2\obj\Debug\Task3_2.pdb

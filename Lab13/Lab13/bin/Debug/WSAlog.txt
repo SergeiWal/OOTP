@@ -56,3 +56,9 @@ Name: D:\GIT\OOTP\Lab13\Lab13\bin\Debug\WSAInspect\WSAdirinfo.txt Time:18.12.202
 Create file
 Name: D:\GIT\OOTP\Lab13\Lab13\bin\Debug\WSAInspect\WSAdirinfo.txt Time:18.12.2020 11:12:36
 Write to file
+Name: WSAInspect Time:03.12.2020 22:08:58
+Ctreate directory
+Name: D:\GIT\OOTP\Lab13\Lab13\bin\Debug\WSAInspect\WSAdirinfo.txt Time:18.12.2020 11:12:36
+Create file
+Name: D:\GIT\OOTP\Lab13\Lab13\bin\Debug\WSAInspect\WSAdirinfo.txt Time:18.12.2020 11:12:36
+Write to file

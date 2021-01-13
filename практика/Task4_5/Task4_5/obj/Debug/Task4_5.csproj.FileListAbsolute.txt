@@ -1,0 +1,7 @@
+D:\мои документы\лабы\OOTП\практика\Task4_5\Task4_5\bin\Debug\Task4_5.exe.config
+D:\мои документы\лабы\OOTП\практика\Task4_5\Task4_5\bin\Debug\Task4_5.exe
+D:\мои документы\лабы\OOTП\практика\Task4_5\Task4_5\bin\Debug\Task4_5.pdb
+D:\мои документы\лабы\OOTП\практика\Task4_5\Task4_5\obj\Debug\Task4_5.csprojAssemblyReference.cache
+D:\мои документы\лабы\OOTП\практика\Task4_5\Task4_5\obj\Debug\Task4_5.csproj.CoreCompileInputs.cache
+D:\мои документы\лабы\OOTП\практика\Task4_5\Task4_5\obj\Debug\Task4_5.exe
+D:\мои документы\лабы\OOTП\практика\Task4_5\Task4_5\obj\Debug\Task4_5.pdb

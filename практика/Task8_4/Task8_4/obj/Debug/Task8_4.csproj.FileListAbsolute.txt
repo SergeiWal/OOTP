@@ -1,0 +1,7 @@
+D:\мои документы\лабы\OOTП\практика\Task8_4\Task8_4\bin\Debug\Task8_4.exe.config
+D:\мои документы\лабы\OOTП\практика\Task8_4\Task8_4\bin\Debug\Task8_4.exe
+D:\мои документы\лабы\OOTП\практика\Task8_4\Task8_4\bin\Debug\Task8_4.pdb
+D:\мои документы\лабы\OOTП\практика\Task8_4\Task8_4\obj\Debug\Task8_4.csprojAssemblyReference.cache
+D:\мои документы\лабы\OOTП\практика\Task8_4\Task8_4\obj\Debug\Task8_4.csproj.CoreCompileInputs.cache
+D:\мои документы\лабы\OOTП\практика\Task8_4\Task8_4\obj\Debug\Task8_4.exe
+D:\мои документы\лабы\OOTП\практика\Task8_4\Task8_4\obj\Debug\Task8_4.pdb

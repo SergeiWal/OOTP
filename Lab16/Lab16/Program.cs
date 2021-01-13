@@ -88,9 +88,11 @@ namespace Lab16
             });
 
             //task 4
+            Task.WaitAll(t4);
             Console.WriteLine(" ----------------------- Task4 -----------------------------");
             //1
             //Task.WaitAll(t1, t2, t3, t4);
+          
             var cwt = t1.ContinueWith(task => {
                 Console.WriteLine($"t1 result: {t1.Result}");
             });
@@ -129,7 +131,7 @@ namespace Lab16
                 Thread.Sleep(3000);
                 //task8
                 Task.WaitAll(prod, shop);
-                Console.WriteLine(" ----------------------- Task6 -----------------------------");
+                Console.WriteLine(" ----------------------- Task8  -----------------------------");
                 FactorialAsync(4);
                 Console.Read();
             }
@@ -237,6 +239,7 @@ namespace Lab16
 
         static public void PrintMatrix(int[,] m1)
         {
+            Thread.Sleep(500);
             for (var i = 0; i < m1.GetUpperBound(0) + 1; i++)
             {
                 for (var j = 0; j < m1.GetUpperBound(1) + 1; j++)
