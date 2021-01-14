@@ -75,8 +75,8 @@ namespace Task8_1
                 Console.WriteLine(i);
             }
             Console.WriteLine("--------------------------------------------------------");
-            var ElementCount = market.assortment.Count(p => p.Name == "Ручка");
-            Console.WriteLine($"Кол-во ручек в магазине:{ElementCount}");
+            var ElementCount = market.assortment.Where(p => p.Name == "Ручка").Select(n => n.Price).Sum(); ;
+            Console.WriteLine($"Общая сумма ручек в магазе:{ElementCount}");
 
             Console.ReadKey();
         }
