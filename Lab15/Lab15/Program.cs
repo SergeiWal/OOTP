@@ -44,7 +44,7 @@ namespace Lab15
             trd1.t2.Join();
             Console.WriteLine();
 
-            //task4
+            //task5
             Console.WriteLine("--------------------------------task 4-------------------------------------------");
             int number = 3;
             TimerCallback callback = new TimerCallback(trd.Count);

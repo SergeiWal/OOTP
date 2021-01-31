@@ -11,6 +11,7 @@ namespace Task3_2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("-----------------------TASK 1_3--------------------------");
             Park<Taxi> uber = new Park<Taxi>();
             Taxi t1 = new Taxi("AB3242C", new Location(12, 18, 65));
             Taxi t2 = new Taxi("AB3692d", new Location(13, 28, 75));
@@ -20,6 +21,10 @@ namespace Task3_2
             uber.Add(t2);
             uber.Add(t3);
             uber.Add(t4);
+            foreach (var c in uber.ParkColl)
+                Console.WriteLine($"{c.Number}");
+
+            Console.WriteLine("-----------------------TASK 4--------------------------");
 
             uber.ParkColl.Sort((x,y) => {
                 if (x.getPath(12, 14) > y.getPath(12, 14)) return 1;
@@ -27,7 +32,10 @@ namespace Task3_2
                 else if (x.getPath(12, 14) == y.getPath(12, 14)) return 0;
                 return -1;
             });
+            foreach (var c in uber.ParkColl)
+                Console.WriteLine($"{c.Number}");
 
+            Console.WriteLine("-----------------------TASK 5(DATA IN FILE)--------------------------");
             using (StreamWriter sw = new StreamWriter("file.txt"))
             {
                 sw.WriteLine(uber.ParkColl[0]);

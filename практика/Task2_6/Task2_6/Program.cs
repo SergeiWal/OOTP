@@ -12,6 +12,7 @@ namespace Task2_6
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("-----------------------TASK 1-2--------------------------");
             User us1 = new User("korova@gmail.com", 1111, State.signin);
             User us2 = new User("volk@gmail.com", 1234, State.signout);
             User us3 = new User("fox@gmail.com", 1435, State.signin);
@@ -37,17 +38,24 @@ namespace Task2_6
                     break;
             }
 
+            Console.WriteLine("-----------------------TASK 3--------------------------");
             WebNet github = new WebNet();
             github.Add(us1);
             github.Add(us2);
             github.Add(us3);
             github.Add(us4);
             github.Add(us5);
+            foreach(var c in github.Users)
+            {
+                Console.WriteLine($"{c.Email}");
+            }
 
+            Console.WriteLine("-----------------------TASK 4--------------------------");
             int CountSignIn = github.Users.Where((n) => n.Status == State.signin).Count();
             Console.WriteLine($"{CountSignIn} столько пользователей зашло на github");
 
-            foreach(var c in github.Users)
+            Console.WriteLine("-----------------------TASK 5(DATA IN FILE)--------------------------");
+            foreach (var c in github.Users)
             {
                 Serelisation(c);
             }

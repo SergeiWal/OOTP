@@ -5,3 +5,10 @@ D:\мои документы\лабы\OOTП\практика\Task7_3\Task7_3\obj
 D:\мои документы\лабы\OOTП\практика\Task7_3\Task7_3\obj\Debug\Task7_3.csproj.CoreCompileInputs.cache
 D:\мои документы\лабы\OOTП\практика\Task7_3\Task7_3\obj\Debug\Task7_3.exe
 D:\мои документы\лабы\OOTП\практика\Task7_3\Task7_3\obj\Debug\Task7_3.pdb
+D:\GIT\OOTP\практика\Task7_3\Task7_3\bin\Debug\Task7_3.exe.config
+D:\GIT\OOTP\практика\Task7_3\Task7_3\bin\Debug\Task7_3.exe
+D:\GIT\OOTP\практика\Task7_3\Task7_3\bin\Debug\Task7_3.pdb
+D:\GIT\OOTP\практика\Task7_3\Task7_3\obj\Debug\Task7_3.csprojAssemblyReference.cache
+D:\GIT\OOTP\практика\Task7_3\Task7_3\obj\Debug\Task7_3.csproj.CoreCompileInputs.cache
+D:\GIT\OOTP\практика\Task7_3\Task7_3\obj\Debug\Task7_3.exe
+D:\GIT\OOTP\практика\Task7_3\Task7_3\obj\Debug\Task7_3.pdb

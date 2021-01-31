@@ -34,9 +34,20 @@ namespace Task8_2
             fit.AddStudent(a9);
             fit.AddStudent(a10);
             fit.AddStudent(a11);
+            foreach(var c in fit.Students)
+            {
+                Console.WriteLine($"{c.Name}");
+            }
 
             fit.DeleteStudent(a11);
+            Console.WriteLine("-------------fit be for deleted----------------");
+            foreach (var c in fit.Students)
+            {
+                Console.WriteLine($"{c.Name}");
+            }
 
+            Console.WriteLine("-------------absolyte number----------------");
+            Console.WriteLine($"Absolyte number:{fit.Average()}"); 
             Console.ReadKey();
         }
     }

@@ -11,6 +11,7 @@ namespace Task8_4
     {
         static void Main(string[] args)
         {
+            Console.WriteLine($"---------------------TASK_1 ----------------------");
             Person p1 = new Person(2002, 5, 3, 4000);
             Person p2 = new Person(2012, 5, 3, 1100);
             Person p3 = new Person(2004, 5, 3, 222);
@@ -22,6 +23,8 @@ namespace Task8_4
             Console.WriteLine($"На счёт p5 зачислено 2300$");
             Console.WriteLine($"Со счёта p1 снято { p1.GetMoney(2000)}$");
 
+            Console.WriteLine($"---------------------TASK2_3 ----------------------");
+
             Console.WriteLine("-----------------------------");
             Console.WriteLine($"Создано {Person.GetPersonCount()} объектов класса Person...");
             Console.WriteLine("----------------------------");
@@ -31,6 +34,7 @@ namespace Task8_4
             else Console.WriteLine("p1 != p4");
             Console.WriteLine("-----------------------------");
 
+            Console.WriteLine($"---------------------TASK_4(NO_DATA) ----------------------");
             Bank<Person> belarus = new Bank<Person>();
             Bank<Person> alfa = new Bank<Person>();
             Bank<Person> vtb = new Bank<Person>();
@@ -45,6 +49,7 @@ namespace Task8_4
             vtb.Add(p4);
             vtb.Add(p5);
 
+            Console.WriteLine($"---------------------TASK_5 ----------------------");
             Task<Person> task1 = new Task<Person>(()=>FindClient(belarus,new DateTime(2002, 5, 3)));
             Task<Person> task2 = new Task<Person>(() => FindClient(alfa, new DateTime(2004, 5, 3)));
             Task<Person> task3 = new Task<Person>(() => FindClient(vtb, new DateTime(2021, 5, 3)));
